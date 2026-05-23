@@ -1,7 +1,11 @@
+---
+name: find-skills
+description: "Discover and install skills from the open agent skills ecosystem using the Skills CLI (npx skills)."
+---
+
 # Find Skills
 
-**Name:** find-skills  
-**Description:** Discover and install skills from the open agent skills ecosystem using the Skills CLI (npx skills).
+Discover and install skills from the open agent skills ecosystem using the Skills CLI (npx skills).
 
 ## Skills CLI Commands
 
