@@ -1,6 +1,7 @@
 # Find Skills
 
-Discover and install skills from the open agent skills ecosystem using the Skills CLI (npx skills).
+**Name:** find-skills  
+**Description:** Discover and install skills from the open agent skills ecosystem using the Skills CLI (npx skills).
 
 ## Skills CLI Commands
 
